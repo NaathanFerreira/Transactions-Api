@@ -3,4 +3,4 @@ db/*.db
 
 .env
 .env.test
-build
+dist
